@@ -6,7 +6,7 @@ Hi, thanks for your interest in the Delft Community Archipelago!
 Delft Community Archipelago is an event where we play one big archipelago session with a group of people at the same time.
 The first event is planned to take place the 20th or/and 21st of December.
 The event is fully online, though you are welcome to LAN-party with other participants.
-The whole event, including setup on the day itself, will take 6~8 hours depending on technical difficulties and how much we get stuck.
+The whole event, including setup on the day itself, will take 6~9 hours depending on technical difficulties and how much we get stuck.
 
 ## What is this Archipelago thing?
 As described on the Archipelago website:
@@ -19,11 +19,11 @@ As described on the Archipelago website:
 Through a few steps:
 
 > [!TIP]
-> Most of the steps we are about to explain can also be found in this YouTube video (https://www.youtube.com/watch?v=kkv_xOXLshw).
+> Most of the steps we are about to explain can also be found in this YouTube video [https://www.youtube.com/watch?v=kkv_xOXLshw](https://www.youtube.com/watch?v=kkv_xOXLshw).
 > The only exception is uploading in step 4, which is not covered in the video.
 
 ### Step 0: Join the discord server
-[https://lobby.finder.giving/worlds](https://lobby.finder.giving/worlds) and let us know on what dates/time you would be available. (A when2meeet will be sent later.)
+[https://discord.gg/PJGwcuXPvq](https://discord.gg/PJGwcuXPvq) and let us know on what dates/time you would be available. (A when2meeet will be sent later.)
 
 ### Step 1: Choose a game
 Any game on this list ([https://lobby.finder.giving/worlds](https://lobby.finder.giving/worlds)) will do.
@@ -38,7 +38,7 @@ _Note that these channels will be general support for these games, and they are 
 We ask you to aim for your individual game(s) to take about *3 hours* on their own for people who have never played Archipelago before. For those who have played before, we ask you to limit it to 4 hours.
 
 The best way to determine if this is true for your game(s) and settings is to play a solo run.
-I recommend you watch this video (https://www.youtube.com/watch?v=kkv_xOXLshw) to find out how to set up a solo game.
+I recommend you watch this video [https://www.youtube.com/watch?v=kkv_xOXLshw](https://www.youtube.com/watch?v=kkv_xOXLshw) to find out how to set up a solo game.
 
 ### Step 4: Submit your settings
 After you have found settings that work, you can submit your settings file (`.yaml`) to the room (_a link to the room will be inserted here at a later point_).
