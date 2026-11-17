@@ -23,13 +23,13 @@ Through a few steps:
 > The only exception is uploading in step 4, which is not covered in the video.
 
 ### Step 0: Join the discord server
-https://discord.gg/PJGwcuXPvq and let us know on what dates/time you would be available. (A when2meeet will be sent later.)
+[https://lobby.finder.giving/worlds](https://lobby.finder.giving/worlds) and let us know on what dates/time you would be available. (A when2meeet will be sent later.)
 
 ### Step 1: Choose a game
-Any game on this list (https://lobby.finder.giving/worlds) will do.
+Any game on this list ([https://lobby.finder.giving/worlds](https://lobby.finder.giving/worlds)) will do.
 
 ### Step 2: Set the options
-After you have selected a game, you will need to set the options for your game. To view a list of the options, visit (https://lobby.finder.giving/options) and select your game.
+After you have selected a game, you will need to set the options for your game. To view a list of the options, visit [https://lobby.finder.giving/options](https://lobby.finder.giving/options) and select your game.
 
 Most defaults will be sensible, but feel free to have a look in the linked channels when clicking on the game at (https://lobby.finder.giving/worlds) for any tips. 
 _Note that these channels will be general support for these games, and they are not associated or related to the Delft Community Archipelago_.
