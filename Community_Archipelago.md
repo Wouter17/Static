@@ -4,7 +4,7 @@ Hi, thanks for your interest in the Delft Community Archipelago!
 
 ## So, what is this?
 Delft Community Archipelago is an event where we play one big archipelago session with a group of people at the same time.
-The first event is planned to take place around the 10th-20th of December.
+The first event is planned to take place the 20th or/and 21st of December.
 The event is fully online, though you are welcome to LAN-party with other participants.
 The whole event, including setup on the day itself, will take 6~8 hours depending on technical difficulties and how much we get stuck.
 
@@ -21,6 +21,9 @@ Through a few steps:
 > [!TIP]
 > Most of the steps we are about to explain can also be found in this YouTube video (https://www.youtube.com/watch?v=kkv_xOXLshw).
 > The only exception is uploading in step 4, which is not covered in the video.
+
+### Step 0: Join the discord server
+https://discord.gg/PJGwcuXPvq and let us know on what dates/time you would be available. (A when2meeet will be sent later.)
 
 ### Step 1: Choose a game
 Any game on this list (https://lobby.finder.giving/worlds) will do.
